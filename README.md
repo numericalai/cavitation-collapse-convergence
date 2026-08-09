@@ -118,5 +118,11 @@ example, re-parametrised for a driven collapse at choke-relevant pressures.
 
 ## License
 
-Code: MIT. Data and figures: CC-BY. If you use this, please cite the archive
-DOI (see `results/DATA_ARCHIVE.md`) and link back to this repository.
+Copyright 2026 Empirisch Tech GmbH.
+
+The code in this repository is licensed under the Apache License, Version 2.0 —
+see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE). The accompanying data and
+figures are licensed under CC-BY 4.0.
+
+This work is built on [MFC](https://github.com/MFlowCode/MFC), which is
+distributed under the MIT License.
