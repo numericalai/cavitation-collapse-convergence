@@ -1,0 +1,27 @@
+
+  GRID REFINEMENT SUMMARY
+    D_39     reached frac 1.00 of its run; R0/known = 1.0791, 244 snapshots
+    D_99     reached frac 1.00 of its run; R0/known = 1.0262, 207 snapshots
+    D_149    reached frac 1.00 of its run; R0/known = 1.0224, 42 snapshots
+
+  PAIRWISE MAX |ΔR|/R0 over the saved range
+    D_39 vs D_99: mean 0.0689  max 0.1056
+    D_39 vs D_149: mean 0.0553  max 0.0944
+    D_99 vs D_149: mean 0.0242  max 0.0411
+
+      frac      D_39      D_99     D_149
+     0.000    1.0791    1.0262    1.0224
+     0.103    1.0785    1.0284    1.0235
+     0.207    1.0741    1.0311    1.0234
+     0.310    1.0585    1.0227    0.9970
+     0.414    1.0210    0.9345    0.9303
+     0.517    0.9623    0.8815    0.9195
+     0.621    0.9455    0.8726    0.9137
+     0.724    0.9367    0.8612    0.9011
+     0.828    0.9282    0.8468    0.8819
+     0.931    0.9192    0.8294    0.8531
+
+  CONVERGENCE DIRECTION
+    coarse-mid mean diff  0.0689
+    mid-fine  mean diff   0.0242
+    -> differences shrink under refinement (converging).
